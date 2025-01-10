@@ -1,7 +1,4 @@
-@font-face {
-    font-family: "Figtree";
-    src: url("/assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;800&display=swap');
 
 :root {
     --primary-color: hsl(47, 88%, 63%);
